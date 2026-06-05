@@ -29,4 +29,5 @@ Currently in my 6th semester, focusing on mastering industry-grade software engi
 ---
 
 ### 📬 Connect with me
+- **LinkedIn:** [linkedin.com/in/jsvdr](https://linkedin.com/in/jsvdr)
 - **Professional Email:** jean.saavedra.work@gmail.com
