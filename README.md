@@ -1,31 +1,32 @@
-# Jean Saavedra
+# Jean Saavedra 🚀
 
-Systems Engineering Student | Backend & Infrastructure Enthusiast
+Systems Engineering Student | Backend Developer
 
-Actualmente en 6.º semestre, enfocado en dominar las bases de la ingeniería de software de grado industrial. Mi meta es construir sistemas backend eficientes, seguros y escalables, priorizando el desarrollo guiado por pruebas (TDD) y la automatización.
-
----
-
-### 🛠️ Tecnologías en Uso Activo
-
-- **Lenguajes:** Go (Golang) • SQL (PostgreSQL / SQL Server)
-- **Entorno y Herramientas:** Linux (WSL2) • Git & GitHub • VS Code
-
-### 📚 En Aprendizaje Activo (Roadmap 2026)
-- Contenerización con **Docker** e Infraestructura como Código (**Terraform**).
-- Automatización y scripting con **Python** (orientado a Ciencia de Datos).
-- Desarrollo frontend básico con **TypeScript y Next.js** para prototipado rápido.
+Currently in my 6th semester, focusing on mastering industry-grade software engineering foundations. I am committed to building efficient, secure, and scalable backend systems, prioritizing Test-Driven Development (TDD) and clean architecture.
 
 ---
 
-### 🏗️ Proyectos en Desarrollo
+### 🛠️ Tech Stack & Tools
 
-#### 🐹 [learn-go-with-tests](https://github.com/jsvdr/learnGoWithTests)
-**Mi base de ingeniería en Go.** Repositorio dedicado a resolver problemas complejos aplicando **Test-Driven Development (TDD)**.
-- Enfoque en código limpio, modularidad y manejo nativo de concurrencia.
-- Pruebas unitarias sistemáticas para asegurar la estabilidad del software antes de escribir la lógica.
+- **Languages:** Go (Golang) • TypeScript • JavaScript • SQL • Python
+- **Frameworks & Environments:** NestJS • Node.js • React
+- **Databases & Tools:** PostgreSQL • Git & GitHub • Linux (WSL2) • VS Code
 
 ---
 
-### 📬 Conectemos
-- **Email:** jean.saavedra.work@gmail.com
+### 🏗️ Projects
+
+#### 🐹 [learnGoWithTests](https://github.com/jsvdr/learnGoWithTests)
+**Core Software Engineering Foundations**
+- Dedicated repository for solving algorithmic and structural problems using Test-Driven Development (TDD) in Go.
+- Focused on writing clean, modular code, and understanding native concurrency before implementing business logic.
+
+#### 🌐 [medly](https://github.com/jsvdr/medly)
+**Full-Stack Medical Application Prototype**
+- An exploratory project built to understand modular architecture, dependency injection, and data persistence using NestJS and TypeScript.
+- Implemented a responsive frontend dashboard using React to consume internal REST APIs.
+
+---
+
+### 📬 Connect with me
+- **Professional Email:** jean.saavedra.work@gmail.com
