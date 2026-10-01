@@ -128,4 +128,3 @@ Current priorities:
 
 - **LinkedIn:** [linkedin.com/in/jsvdr](https://linkedin.com/in/jsvdr)
 - **GitHub:** [github.com/jsvdr](https://github.com/jsvdr)
-- **Email:** jean.saavedra.work@gmail.com
